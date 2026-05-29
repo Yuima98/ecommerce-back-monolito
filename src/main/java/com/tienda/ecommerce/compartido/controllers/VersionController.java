@@ -16,7 +16,7 @@ public class VersionController {
 
         HashMap<String, String> response= new HashMap<>();
         response.put("name", "Ecommerce-bakcend-monolito");
-        response.put("version", "1.0.0");
+        response.put("version", "1.0.1");
 
         return response;
     }
